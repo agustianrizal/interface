@@ -1,0 +1,7 @@
+	
+	Untuk memahami lebih mudah, interface sekumpula dari method-method yang dibuat
+tapi belum ada operasi di dalam tubuh method tersebut, interface ini bisa 
+diturunkan atau diwariskan kepada class yang ingin memakai method yang ada
+dalam masing-masing interface tersebut dengan keyword extends [interface 
+yang didefinisikan]. Dan juga sebuah class mengimplementasi 1 interface yang 
+sudah dibuat dengan keyword implements.
